@@ -33,11 +33,12 @@ module.exports = {
 
 ```json
 {
-  "css.validate": false,
-  "less.validate": false,
   "less.validate": false,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
+  },
+  "[less]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint"
   }
 }
 ```

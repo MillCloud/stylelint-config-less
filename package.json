@@ -8,22 +8,24 @@
     "less",
     "miniprogram"
   ],
-  "homepage": "https://github.com/Millcloud/stylelint-config-less#readme",
+  "homepage": "https://github.com/MillCloud/stylelint-config-less#readme",
   "bugs": {
-    "url": "https://github.com/Millcloud/stylelint-config-less/issues"
+    "url": "https://github.com/MillCloud/stylelint-config-less/issues"
   },
   "license": "MIT",
   "author": "ModyQyW <wurui7@mail3.sysu.edu.cn>",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Millcloud/stylelint-config-less.git"
+    "url": "git@github.com:MillCloud/stylelint-config-less.git"
   },
   "dependencies": {
     "stylelint-config-twbs-bootstrap": "~2.0.0"
   },
   "devDependencies": {
-    "eslint": "~7.2.0",
+    "@modyqyw/prettier-config": "~1.0.0",
+    "babel-eslint": "~10.1.0",
+    "eslint": "~7.3.0",
     "prettier": "~2.0.0"
   },
   "peerDependencies": {

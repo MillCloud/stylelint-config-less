@@ -1,6 +1,6 @@
 {
   "name": "@modyqyw/stylelint-config-less",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A Stylelint shareable config for less. Also support miniprograms.",
   "keywords": [
     "stylelint",
@@ -25,11 +25,11 @@
   "devDependencies": {
     "@modyqyw/prettier-config": "~1.1.0",
     "babel-eslint": "~10.1.0",
-    "eslint": "~7.7.0",
+    "eslint": "~7.8.0",
     "prettier": "~2.1.0"
   },
   "peerDependencies": {
-    "stylelint": "~13.6.0"
+    "stylelint": "~13.7.0"
   },
   "engines": {
     "node": ">=10",

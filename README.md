@@ -1,3 +1,5 @@
+**DEPRECATED! Check [@modyqyw/stylelint-config](https://github.com/MillCloud/stylelint-config).**
+
 # @modyqyw/stylelint-config-less
 
 A Stylelint shareable config for less. Also support miniprograms.
